@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function(docEvent){
                 if(!tldr){
                     const p = document.createElement('p')
                     p.className = "TLDR"
+
                     if(dataKeys.indexOf(title.innerText) > -1)
                     {
                         let key = title.innerText
