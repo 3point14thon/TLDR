@@ -5,19 +5,19 @@ document.addEventListener("DOMContentLoaded", function(docEvent){
     siteTable.addEventListener('mouseover', function(e){
         if (e.target !== e.currentTarget) {
             if(e.target.classList.contains('entry')){
-                console.log('YAS QUEEN')
+                // console.log('YAS QUEEN')
                 const tm = e.target.getElementsByClassName('top-matter')[0]
-
+                const title = tm.getElementsByClassName('title')[0].getElementsByClassName('linkflairlabel')[0]
                 let tldr = tm.getElementsByClassName('TLDR')[0]
                 if(!tldr){
                     const p = document.createElement('p')
                     p.className = "TLDR"
-                    // if(e.target.classList.contains('stickied')){
-                    //     p.innerText = ""
-                    // }
-                    // else {
-                    //     p.innerText = 
-                    // }
+                    if(title.innerText === "Question"){
+                        p.innerText = data[0].Question
+                    }
+                    else {
+                        p.innerText = data[0].Discussion
+                    }
                     tm.appendChild(p)
                 } 
             }
