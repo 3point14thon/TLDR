@@ -23,8 +23,9 @@
       {
         "matches": ["https://*.old.reddit.com/r/*","http://*.old.reddit.com/r/*"], 
         "css": ["css/style.css"],
+        "js": ["js/events.js"],
         "run_at": "document_start"
-        // ,"js": ["js/simplereddit.js"]
+        
       }
     ],
     "permissions": [ "https://*.reddit.com/*", "http://*.reddit.com/*", "storage" ]
