@@ -1,0 +1,23 @@
+{
+    "manifest_version": 2,
+    "name": "TLDR",
+    "short_name": "TLDR",
+    "version": "0.8",
+    "description": "Return the TLDR news links",
+    "content_scripts": [
+      {
+        "matches": ["https://*.old.reddit.com/r/*","http://*.old.reddit.com/r/*"], 
+        "css": ["css/style.css"],
+        "js": ["js/events.js"],
+        "run_at": "document_start"
+        
+      }
+    ],
+    "permissions": [ "https://*.reddit.com/*", "http://*.reddit.com/*", "storage" ]
+    ,
+    "icons": {
+          "128": "images/TLDR.png"
+      }
+  }
+
+
