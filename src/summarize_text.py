@@ -10,9 +10,12 @@ def summarizer(text, num_res=1):
     Args:
 
     '''
-    num_res = num_res * -1 -1
+    num_res = num_res + 1
     sen = sent_tokenize(text)
     vectorizor = TfidfVectorizer(stop_words='english')
     vec_sen = vectorizor.fit_transform(sen)
-    top = np.array(np.argsort(vec_sen.sum(axis)))
-    return top[:-num_res:-1]
+    top = np.array(np.argsort(vec_sen.sum(axis=1).flatten()))
+    top_lines = []
+    for line in top[0][:-num_res:-1]:
+        top_lines.append(sen[line])
+    return '\n'.join(top_lines)
