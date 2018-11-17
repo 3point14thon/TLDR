@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function(docEvent){
 
     const siteTable = document.getElementById('siteTable');
+    const dataKeys = Object.keys(data[0])
 
     siteTable.addEventListener('mouseover', function(e){
         if (e.target !== e.currentTarget) {
@@ -12,11 +13,13 @@ document.addEventListener("DOMContentLoaded", function(docEvent){
                 if(!tldr){
                     const p = document.createElement('p')
                     p.className = "TLDR"
-                    if(title.innerText === "Question"){
-                        p.innerText = data[0].Question
+                    if(dataKeys.indexOf(title.innerText) > -1)
+                    {
+                        let key = title.innerText
+                        p.innerText = data[0][key]
                     }
                     else {
-                        p.innerText = data[0].Discussion
+                        p.innerText = data[0].Question
                     }
                     tm.appendChild(p)
                 } 
