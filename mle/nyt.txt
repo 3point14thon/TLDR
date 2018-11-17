@@ -1,0 +1,28 @@
+Sheryl Sandberg was seething.
+
+Inside Facebook’s Menlo Park, Calif., headquarters, top executives gathered in the glass-walled conference room of its founder, Mark Zuckerberg. It was September 2017, more than a year after Facebook engineers discovered suspicious Russia-linked activity on its site, an early warning of the Kremlin campaign to disrupt the 2016 American election. Congressional and federal investigators were closing in on evidence that would implicate the company.
+
+But it wasn’t the looming disaster at Facebook that angered Ms. Sandberg. It was the social network’s security chief, Alex Stamos, who had informed company board members the day before that Facebook had yet to contain the Russian infestation. Mr. Stamos’s briefing had prompted a humiliating boardroom interrogation of Ms. Sandberg, Facebook’s chief operating officer, and her billionaire boss. She appeared to regard the admission as a betrayal.
+
+“You threw us under the bus!” she yelled at Mr. Stamos, according to people who were present.
+
+The clash that day would set off a reckoning — for Mr. Zuckerberg, for Ms. Sandberg and for the business they had built together. In just over a decade, Facebook has connected more than 2.2 billion people, a global nation unto itself that reshaped political campaigns, the advertising business and daily life around the world. Along the way, Facebook accumulated one of the largest-ever repositories of personal data, a treasure trove of photos, messages and likes that propelled the company into the Fortune 500.
+
+But as evidence accumulated that Facebook’s power could also be exploited to disrupt elections, broadcast viral propaganda and inspire deadly campaigns of hate around the globe, Mr. Zuckerberg and Ms. Sandberg stumbled. Bent on growth, the pair ignored warning signs and then sought to conceal them from public view. At critical moments over the last three years, they were distracted by personal projects, and passed off security and policy decisions to subordinates, according to current and former executives.
+
+When Facebook users learned last spring that the company had compromised their privacy in its rush to expand, allowing access to the personal information of tens of millions of people to a political data firm linked to President Trump, Facebook sought to deflect blame and mask the extent of the problem.
+
+And when that failed — as the company’s stock price plummeted and it faced a consumer backlash — Facebook went on the attack.
+
+While Mr. Zuckerberg has conducted a public apology tour in the last year, Ms. Sandberg has overseen an aggressive lobbying campaign to combat Facebook’s critics, shift public anger toward rival companies and ward off damaging regulation. Facebook employed a Republican opposition-research firm to discredit activist protesters, in part by linking them to the liberal financier George Soros. It also tapped its business relationships, lobbying a Jewish civil rights group to cast some criticism of the company as anti-Semitic.
+
+In Washington, allies of Facebook, including Senator Chuck Schumer, the Democratic Senate leader, intervened on its behalf. And Ms. Sandberg wooed or cajoled hostile lawmakers, while trying to dispel Facebook’s reputation as a bastion of Bay Area liberalism.
+
+This account of how Mr. Zuckerberg and Ms. Sandberg navigated Facebook’s cascading crises, much of which has not been previously reported, is based on interviews with more than 50 people. They include current and former Facebook executives and other employees, lawmakers and government officials, lobbyists and congressional staff members. Most spoke on the condition of anonymity because they had signed confidentiality agreements, were not authorized to speak to reporters or feared retaliation.
+
+Facebook declined to make Mr. Zuckerberg and Ms. Sandberg available for comment. In a statement, a spokesman acknowledged that Facebook had been slow to address its challenges but had since made progress fixing the platform.
+
+“This has been a tough time at Facebook and our entire management team has been focused on tackling the issues we face,” the statement said. “While these are hard problems we are working hard to ensure that people find our products useful and that we protect our community from bad actors.”
+
+Even so, trust in the social network has sunk, while its pell-mell growth has slowed. Regulators and law enforcement officials in the United States and Europe are investigating Facebook’s conduct with Cambridge Analytica, a political data firm that worked with Mr. Trump’s 2016 campaign, opening up the company to fines and other liability. Both the Trump administration and lawmakers have begun crafting proposals for a national privacy law, setting up a yearslong struggle over the future of Facebook’s data-hungry business model.
+
