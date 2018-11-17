@@ -8,7 +8,13 @@ def summarizer(text, num_res=1):
     based on the sum of the tfidf vector for each sentince.
 
     Args:
+        text: A string of text to be summarized
+        num_res: The number of responses desired as an integer, default 1
 
+    Returns:
+        The top num_res sentinces that represent the input text based on the
+        sum of its tfidf values per sentince (using sentinces as documents)
+        as a string.
     '''
     num_res = num_res + 1
     sen = sent_tokenize(text)
