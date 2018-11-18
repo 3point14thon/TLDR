@@ -24,4 +24,5 @@ return a summary of what the user would see. This includes:
 
 
 Project used for Globant Hack the Future: Media of the Future
+
 Contributors: Chris Bowers, Michael Palmer, Jared Anderson, Brendan Woodell
