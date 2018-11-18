@@ -3,8 +3,8 @@ Chrome Extension for Summarizing Links
 
 
 #### This project is split up into 2 parts:
-..* Chrome Web Extension
-..* Python Text Processor
+* Chrome Web Extension
+* Python Text Processor
 
 #### The Chrome Extension
 This is an example of what TLDR output on Reddit might look like, by loading this extension into Chrome 
